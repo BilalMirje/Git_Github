@@ -1,1 +1,2 @@
 This is text file in director three
+Another line added
